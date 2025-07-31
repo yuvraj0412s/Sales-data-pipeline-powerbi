@@ -1,4 +1,7 @@
 # 🚗 Vehicle Sales Data Analysis Dashboard
+[![Open in GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=github)](https://github.com/yourusername/Task_4_Vehicle-Sales-Data-Analysis)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000)](https://powerbi.microsoft.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ![Power BI Dashboard](Page-1.png)  
 *Interactive dashboard showing sales trends, customer insights, and product performance*
@@ -11,9 +14,6 @@ An end-to-end data analysis project featuring:
 - Geographic and temporal analysis
 - Customer segmentation
 
-[![Open in GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?logo=github)](https://github.com/yourusername/Task_4_Vehicle-Sales-Data-Analysis)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000)](https://powerbi.microsoft.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 
 ## 🛠️ Tech Stack & Skills Demonstrated
 
