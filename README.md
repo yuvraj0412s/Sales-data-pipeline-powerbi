@@ -1,6 +1,6 @@
 # 🚗 Vehicle Sales Data Analysis Dashboard
 
-![Power BI Dashboard](docs/screenshots/page1.png)  
+![Power BI Dashboard](docs/page1.png)  
 *Interactive dashboard showing sales trends, customer insights, and product performance*
 
 ## 📊 Project Overview
